@@ -1,0 +1,6 @@
+{
+  "name": "Day_drive",
+  "description": "Singapore expressway traffic telemetry, live LTA incident alerts, ERP 2.0 gantry pricing, and intelligent route navigation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
